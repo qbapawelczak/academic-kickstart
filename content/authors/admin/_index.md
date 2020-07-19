@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jakub Pawelczak
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,34 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Phd Student, Econ Department
+role: Professor of Artificial Intelligence
+
 # Organizations/Affiliations
 organizations:
-- name: University of Minnesota
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Theory
-- Macro
-- Beer
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Economics
-    institution: University of Minnesota
-    year: 2019-
-  - course: MSc
-    institution: Universite Pantheon-Sorbonne
-    year: 2018
-  - course: BSc in Mathematics
-    institution: University of Warsaw
-    year: 2016
-- course: BSc in Quanitative Methods
-    institution: Warsaw School of Economics
-    year: 2015
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
