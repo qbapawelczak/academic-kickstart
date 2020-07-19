@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jakub Pawelczak
 
 # Username (this should match the folder name)
 authors:
