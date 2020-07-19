@@ -30,7 +30,7 @@ education:
     institution: University of Minnesota
     year: 2019-
   - course: MSc
-    institution: Université Panthéon-Sorbonne
+    institution: Universite Pantheon-Sorbonne
     year: 2018
   - course: BSc in Mathematics
     institution: University of Warsaw
