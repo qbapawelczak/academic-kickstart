@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Minnesota
-  url: "pawel042@umn.edu"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,9 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:pawel042@umn.edu" #'#contact'  # For a direct email link, use "mailto:pawel042@umn.edu".
+  link: "mailto:pawel042@umn.edu" 
+    url: "pawel042@umn.edu"
+    #'#contact'  # For a direct email link, use "mailto:pawel042@umn.edu".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
