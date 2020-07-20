@@ -11,6 +11,11 @@ view: 2
 header:
   caption: ""
   image: ""
+  
+  - [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+ 
 ---
 
 
