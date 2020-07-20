@@ -1,4 +1,4 @@
- 
+ {{% staticref "book.pdf" "newtab" %}}Download my CV{{% /staticref %}}
   [I'm a link](https://www.google.com)  
 $$\gamma_{n} = \frac{ 
 \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
