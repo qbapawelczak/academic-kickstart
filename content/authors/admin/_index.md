@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Minnesota
-  url: ""
+  url: "pawel042@umn.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
