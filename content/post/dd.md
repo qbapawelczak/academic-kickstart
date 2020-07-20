@@ -1,7 +1,4 @@
-- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
- 
+
 $$\gamma_{n} = \frac{ 
 \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
