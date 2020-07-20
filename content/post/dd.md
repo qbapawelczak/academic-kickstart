@@ -6,4 +6,4 @@ $$\gamma_{n} = \frac{
 
 - icon: cv
   icon_pack: ai
- link: files/Learning in networs.pdf
+ link: img/title1.png
