@@ -1,4 +1,3 @@
-ii
 
 +++
 # A Recent Blog Posts section created with the Pages widget.
