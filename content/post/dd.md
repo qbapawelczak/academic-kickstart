@@ -4,6 +4,3 @@ $$\gamma_{n} = \frac{
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 
 
-- icon: cv
-  icon_pack: ai
- link: img/title1.png
