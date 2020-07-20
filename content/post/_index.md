@@ -10,7 +10,7 @@ view: 1
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "title1.png"
+  image: "static/img/title1.png"
   
 
 ---
