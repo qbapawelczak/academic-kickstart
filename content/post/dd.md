@@ -1,5 +1,5 @@
- {{% staticref "book.pdf" "newtab" %}}Download my CV{{% /staticref %}}
-  [I'm a link](https://www.google.com)  
+   [I'm a link] ({{% staticref "book.pdf" "newtab" %}}Download my CV{{% /staticref %}})
+ 
 $$\gamma_{n} = \frac{ 
 \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
