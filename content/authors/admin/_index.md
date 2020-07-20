@@ -44,9 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:pawel042@umn.edu" 
-    url: "pawel042@umn.edu"
-    #'#contact'  # For a direct email link, use "mailto:pawel042@umn.edu".
+  link: "mailto:pawel042@umn.edu"     #'#contact'  # For a direct email link, use "mailto:pawel042@umn.edu".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
