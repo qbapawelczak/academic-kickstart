@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Teachingxd
 
 # View.
 #   1 = List
