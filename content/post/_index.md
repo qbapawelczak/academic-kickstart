@@ -14,7 +14,3 @@ header:
   
 
 ---
-
-## Microeconomics 8101 <h2> 
-**[link to Google!](/book.pdf)**
-
